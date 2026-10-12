@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34703B8E-B0C9-3F66-238D-06E1B1D401FC}|TiemTapHoa\\TiemTapHoa.csproj|c:\\users\\pc\\onedrive\\m\u00E1y t\u00EDnh\\thaitranminhhung_6551071038_btlt8\\tiemtaphoa\\tiemtaphoa\\tiemtaphoa\\models\\tiemtaphoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34703B8E-B0C9-3F66-238D-06E1B1D401FC}|TiemTapHoa\\TiemTapHoa.csproj|solutionrelative:tiemtaphoa\\models\\tiemtaphoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Program\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE9076A-B499-4D30-941F-F86B797C9CC6}|TiemTapHoa\\TiemTapHoa.csproj|C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\tiemtaphoa\\formquanlyhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE9076A-B499-4D30-941F-F86B797C9CC6}|TiemTapHoa\\TiemTapHoa.csproj|solutionrelative:tiemtaphoa\\formquanlyhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34703B8E-B0C9-3F66-238D-06E1B1D401FC}|TiemTapHoa\\TiemTapHoa.csproj|c:\\users\\pc\\onedrive\\m\u00E1y t\u00EDnh\\thaitranminhhung_6551071038_btlt8\\tiemtaphoa\\tiemtaphoa\\tiemtaphoa\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34703B8E-B0C9-3F66-238D-06E1B1D401FC}|TiemTapHoa\\TiemTapHoa.csproj|solutionrelative:tiemtaphoa\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34703B8E-B0C9-3F66-238D-06E1B1D401FC}|TiemTapHoa\\TiemTapHoa.csproj|c:\\users\\pc\\onedrive\\m\u00E1y t\u00EDnh\\thaitranminhhung_6551071038_btlt8\\tiemtaphoa\\tiemtaphoa\\tiemtaphoa\\formquanlyhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34703B8E-B0C9-3F66-238D-06E1B1D401FC}|TiemTapHoa\\TiemTapHoa.csproj|solutionrelative:tiemtaphoa\\formquanlyhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34703B8E-B0C9-3F66-238D-06E1B1D401FC}|TiemTapHoa\\TiemTapHoa.csproj|c:\\users\\pc\\onedrive\\m\u00E1y t\u00EDnh\\thaitranminhhung_6551071038_btlt8\\tiemtaphoa\\tiemtaphoa\\tiemtaphoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34703B8E-B0C9-3F66-238D-06E1B1D401FC}|TiemTapHoa\\TiemTapHoa.csproj|solutionrelative:tiemtaphoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34703B8E-B0C9-3F66-238D-06E1B1D401FC}|TiemTapHoa\\TiemTapHoa.csproj|c:\\users\\pc\\onedrive\\m\u00E1y t\u00EDnh\\thaitranminhhung_6551071038_btlt8\\tiemtaphoa\\tiemtaphoa\\tiemtaphoa\\formquanlyhanghoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34703B8E-B0C9-3F66-238D-06E1B1D401FC}|TiemTapHoa\\TiemTapHoa.csproj|solutionrelative:tiemtaphoa\\formquanlyhanghoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "TiemTapHoa\\Models\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\Models\\HangHoa.cs",
+              "RelativeToolTip": "TiemTapHoa\\Models\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:48:40.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TiemTapHoaContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\Models\\TiemTapHoaContext.cs",
+              "RelativeDocumentMoniker": "TiemTapHoa\\Models\\TiemTapHoaContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\Models\\TiemTapHoaContext.cs",
+              "RelativeToolTip": "TiemTapHoa\\Models\\TiemTapHoaContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:46:22.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormQuanLyHangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\FormQuanLyHangHoa.cs",
+              "RelativeDocumentMoniker": "TiemTapHoa\\FormQuanLyHangHoa.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\FormQuanLyHangHoa.cs",
+              "RelativeToolTip": "TiemTapHoa\\FormQuanLyHangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:37:39.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "E:\\Program\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "E:\\Program\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFYVAAAAAAAAAAASwGUVAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-12T03:53:07.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\Program.cs",
+              "RelativeDocumentMoniker": "TiemTapHoa\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\Program.cs",
+              "RelativeToolTip": "TiemTapHoa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T04:04:52.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormQuanLyHangHoa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\FormQuanLyHangHoa.Designer.cs",
+              "RelativeDocumentMoniker": "TiemTapHoa\\FormQuanLyHangHoa.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\FormQuanLyHangHoa.Designer.cs",
+              "RelativeToolTip": "TiemTapHoa\\FormQuanLyHangHoa.Designer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAwJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T04:01:22.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormQuanLyHangHoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\ThaiTranMinhHung_6551071038_BTLT8\\TiemTapHoa\\TiemTapHoa\\TiemTapHoa\\FormQuanLyHangHoa.cs",
+              "RelativeDocumentMoniker": "TiemTapHoa\\FormQuanLyHangHoa.cs",
+              "ToolTip": "E:\\Code\\NguyenTienHung_6551071039_BTLT8\\Cau_1\\TiemTapHoa\\TiemTapHoa\\FormQuanLyHangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:37:21.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

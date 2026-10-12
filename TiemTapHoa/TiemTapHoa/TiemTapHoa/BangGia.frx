@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" DoublePass="true" ReportInfo.Created="10/12/2026 09:00:00" ReportInfo.Modified="10/12/2026 09:00:00" ReportInfo.CreatorVersion="2023.1.0.0">
+  <Dictionary>
+    <TableDataSource Name="HangHoa" ReferenceName="HangHoa" DataType="System.Int32" Enabled="true">
+      <Column Name="TenHang" DataType="System.String"/>
+      <Column Name="DonVi" DataType="System.String"/>
+      <Column Name="GiaBan" DataType="System.Decimal"/>
+    </TableDataSource>
+    <Parameter Name="NgayIn" DataType="System.String"/>
+  </Dictionary>
+  <ReportPage Name="Page1" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="75.6">
+      <TextObject Name="Text1" Width="718.2" Height="37.8" Text="BẢNG GIÁ HÀNG HÓA – TẠP HÓA NHÀ TRƯỜNG UTC2" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 14pt, style=Bold"/>
+      <TextObject Name="Text2" Top="37.8" Width="718.2" Height="28.35" Text="Ngày in: [NgayIn]" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 10pt, style=Italic"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="79.6" Width="718.2" Height="28.35">
+      <TextObject Name="Text3" Width="56.7" Height="28.35" Border.Lines="All" Fill.Color="WhiteSmoke" Text="STT" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 10pt, style=Bold"/>
+      <TextObject Name="Text4" Left="56.7" Width="340.2" Height="28.35" Border.Lines="All" Fill.Color="WhiteSmoke" Text="Tên hàng" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 10pt, style=Bold"/>
+      <TextObject Name="Text5" Left="396.9" Width="113.4" Height="28.35" Border.Lines="All" Fill.Color="WhiteSmoke" Text="Đơn vị" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 10pt, style=Bold"/>
+      <TextObject Name="Text6" Left="510.3" Width="207.9" Height="28.35" Border.Lines="All" Fill.Color="WhiteSmoke" Text="Giá bán" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 10pt, style=Bold"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="111.95" Width="718.2" Height="24.57" DataSource="HangHoa">
+      <TextObject Name="Text7" Width="56.7" Height="24.57" Border.Lines="All" Text="[Row#]" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 10pt"/>
+      <TextObject Name="Text8" Left="56.7" Width="340.2" Height="24.57" Border.Lines="All" Text="[HangHoa.TenHang]" VertAlign="Center" Padding="4, 0, 2, 0" Font="Times New Roman, 10pt"/>
+      <TextObject Name="Text9" Left="396.9" Width="113.4" Height="24.57" Border.Lines="All" Text="[HangHoa.DonVi]" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 10pt"/>
+      <TextObject Name="Text10" Left="510.3" Width="207.9" Height="24.57" Border.Lines="All" Text="[HangHoa.GiaBan]" Format="Number" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="," Format.GroupSeparator="." Format.NegativePattern="1" HorzAlign="Right" VertAlign="Center" Padding="2, 0, 6, 0" Font="Times New Roman, 10pt"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="140.52" Width="718.2" Height="28.35">
+      <TextObject Name="Text11" Width="718.2" Height="28.35" Border.Lines="Top" Text="Trang [Page#]/[TotalPages#]" HorzAlign="Center" VertAlign="Center" Font="Times New Roman, 9pt"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>
